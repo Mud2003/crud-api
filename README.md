@@ -1,2 +1,4 @@
 # crud-api
- This is crud operations api for future use.
+
+
+Simple api with crud operations using Nodejs, express and Mongodb.
